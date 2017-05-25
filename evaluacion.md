@@ -20,29 +20,29 @@ A continuación, adjuntamos esta herramienta que acabamos de describir:
 
 &quot;Measurement of Affective, Continuance, and Normative Commitment&quot; (Allen y Meyer, 1990)
 
-1.Sería muy feliz si pudiera pasar el resto de mi carrera en esta organización
-2.Disfruta hablando de mi organización con gente de fuera de esta
-3.Realmente siento como si los problemas de la organización fueran míos
-4.Pienso que podría fácilmente sentir apego por otra organización como lo tengo por esta
-5.No me siento como &quot;miembro de la familia&quot; en mi organización
-6.No me siento &quot;unido emocionalmente&quot; con esta organización
-7.Esta organización tiene mucho significado personal para mi
-8.No siento un fuerte sentido de pertenencia con mi organización
-9.No tengo miedo sobre lo que pueda pasar si dejo este trabajo sin tener otro programado/alineado
-10.Sería muy difícil para mí dejar ahora mi organización, aunque quisiera
-11.Muchos aspectos de mi vida se verían afectados si decidiera dejar mi organización ahora
-12.No me seria costoso dejar a organización en un futuro cercano
-13.Ahora mismo, permanecer en mi organización es una cuestión tanto de necesidad como de deseo
-14.Creo que tengo muy pocas opciones para considerar dejar esta organización
-15.Una de las pocas consecuencias negativas de dejar esta organización sería la falta de alternativas disponibles
-16.Una de las mayores razones para continuar trabajando en esta organización es que dejarla requeriría un sacrificio personal considerable, otra organización tal vez no coincide con todos los beneficios que tengo en esta.
-17.Si no hubiera puesto ya tanto de mí mismo/a en esta organización, podría considerar la opción de trabajar en otro lugar.
-18.No siento ninguna obligación en permanecer con mi actual empresa
-19.Incluso si fuera a mi favor, siento que no sería correcto dejar mi organización ahora
-20.Me sentiría culpable si dejara mi organización ahora
-21.Esta organización merece mi lealtad
-22.No dejaría mi organización ahora porque tengo un sentido de obligación con la gente de ella
-23.Le debo mucho a mi organización
+1. Sería muy feliz si pudiera pasar el resto de mi carrera en esta organización
+2. Disfruta hablando de mi organización con gente de fuera de esta
+3. Realmente siento como si los problemas de la organización fueran míos
+4. Pienso que podría fácilmente sentir apego por otra organización como lo tengo por esta
+5. No me siento como &quot;miembro de la familia&quot; en mi organización
+6. No me siento &quot;unido emocionalmente&quot; con esta organización
+7. Esta organización tiene mucho significado personal para mi
+8. No siento un fuerte sentido de pertenencia con mi organización
+9. No tengo miedo sobre lo que pueda pasar si dejo este trabajo sin tener otro programado/alineado
+10. Sería muy difícil para mí dejar ahora mi organización, aunque quisiera
+11. Muchos aspectos de mi vida se verían afectados si decidiera dejar mi organización ahora
+12. No me seria costoso dejar a organización en un futuro cercano
+13. Ahora mismo, permanecer en mi organización es una cuestión tanto de necesidad como de deseo
+14. Creo que tengo muy pocas opciones para considerar dejar esta organización
+15. Una de las pocas consecuencias negativas de dejar esta organización sería la falta de alternativas disponibles
+16. Una de las mayores razones para continuar trabajando en esta organización es que dejarla requeriría un sacrificio personal considerable, otra organización tal vez no coincide con todos los beneficios que tengo en esta.
+17. Si no hubiera puesto ya tanto de mí mismo/a en esta organización, podría considerar la opción de trabajar en otro lugar.
+18. No siento ninguna obligación en permanecer con mi actual empresa
+19. Incluso si fuera a mi favor, siento que no sería correcto dejar mi organización ahora
+20. Me sentiría culpable si dejara mi organización ahora
+21. Esta organización merece mi lealtad
+22. No dejaría mi organización ahora porque tengo un sentido de obligación con la gente de ella
+23. Le debo mucho a mi organización
 
 Otra herramienta que se puede utilizar en la evaluación del compromiso organizacional, es la llamada_&quot;OCQ: Organizational Commitment Questionnaire&quot;,_  desarrollada por Mowday, Steers y Porter_._ Esta herramienta está focalizada en evaluar uno de los tipos de compromiso propuestos por Meyer y Allen (1990), el compromiso afectivo. De este modo, esta herramienta será útil en aquellas organizaciones que quieran conocer únicamente el grado en el que sus trabajadores están vinculados emocionalmente a la empresa, para posteriormente potenciarlo. (Tayyab, 2007)
 
