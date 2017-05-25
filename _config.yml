@@ -1,0 +1,19 @@
+timezone: UTC
+permalink: pretty
+gems:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      type: "post"
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: "default"

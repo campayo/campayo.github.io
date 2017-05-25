@@ -1,0 +1,159 @@
+<!doctype html>
+<html amp lang="es">
+<head>
+	<meta charset="utf-8">
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+	<title>{{ page.title }}</title>
+	<link rel="canonical" href="{{ page.url | prepend: site.url }}" >
+	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+	<style amp-custom>
+		body {
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		}
+
+		h1, h2, h3, h4, h5, h6 {
+			font-family: "Lato", sans-serif;
+			padding-bottom: .5em;
+		}
+
+		.Title {
+			text-align: center;
+		}
+
+		.Image__container,
+		p > strong {
+			display: block;
+			margin: 0 auto;
+			text-align: center;
+			padding-bottom: .5em;
+		}
+
+		.Container {
+			padding: 0 25px;
+		}
+
+		.Menu {
+			display: flex;
+			display: -webkit-flex;
+			align-items: center;
+			box-shadow: 0 0 40px 0 rgba(0,0,0,0.1);
+		}
+
+		.Menu__title {
+			padding-bottom: 0;
+			font-size: 18px;
+		}
+
+		a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		.Menu__left {
+			flex: 1;
+			-webkit-flex: 1;
+		}
+
+		.Menu__right {
+			display: flex;
+			align-items: center;
+			width: 100px;
+			justify-content: flex-end;
+		}
+
+		.Menu__button {
+			height: 20px;
+			cursor: pointer;
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
+			border: none;
+			background: url("{{ site.url }}/open.svg") no-repeat center/30px 24px transparent;
+		} 
+
+		.Sidebar {
+			position: relative;
+			width: 300px;
+		}
+
+		.Sidebar__close {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			cursor: pointer;
+		}
+
+		.Sidebar li{
+			list-style: none;
+			font-size: 20px;
+		}
+
+		p, li, span {
+			line-height: 1.4em;
+		}
+
+		li {
+			margin-bottom: .5em;
+		}
+
+		.Image__container amp-img {
+			box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2);
+		}
+	</style>
+</head>
+<body>
+
+	<div class="Menu Container">
+		<div class="Menu__left">
+			<h1 class="Menu__title">
+				<a href="{{ site.url }}">
+					Consultoría organizacional BGR
+				</a>
+			</h1>
+		</div>
+		<div class="Menu__right">
+			<button on="tap:sidebar.toggle" class="ampstart-btn caps m2 Menu__button"></button>
+		</div>
+	</div>
+
+	<amp-sidebar id="sidebar"
+	layout="nodisplay"
+	side="right" class="Sidebar">
+	<amp-img class="amp-close-image Sidebar__close"
+	src="{{ site.url }}/close.png"
+	width="20"
+	height="20"
+	alt="close sidebar"
+	on="tap:sidebar.close"
+	role="button"
+	tabindex="0"></amp-img>
+	<ul>
+		<li>
+			<a href="/">Inicio</a>
+		</li>
+		<li>
+			<a href="/evaluacion">Evaluación del compromiso</a>
+		</li>
+		<li>
+			<a href="/intervencion">Intervención para incrementar el compromiso</a>
+		</li>
+		<li>
+			<a href="/modelo">Modelo teórico</a>
+		</li>
+		<li>
+			<a href="/referencias">Referencias</a>
+		</li>
+		<li>
+			<a href="/nosotros">Quienes somos?</a>
+		</li>
+	</ul>
+</amp-sidebar>
+<div class="Container">
+	{{ content }}
+</div>
+</body>
+</html>
